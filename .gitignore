@@ -1,0 +1,67 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Logs
+logs/
+*.log
+
+# Environment variables
+.env
+smtp/creds/
+
+# Database files
+*.db
+
+# Other files
+*.sqlite3
+
+# Virtual environment
+venv/
+ENV/
+env/
+.venv/
+omoto_env/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# PyCharm
+.idea/
+
+# VS Code
+.vscode/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# pytest
+.cache/
+
+# Coverage reports
+.coverage
+.coverage.*
+*.cover
+*.gcov
+nosetests.xml
+coverage.xml
+*.hprof
+
+# Translations
+*.mo
+*.pot
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini

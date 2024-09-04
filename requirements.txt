@@ -1,0 +1,10 @@
+boto3
+flask
+google-api-python-client
+google-auth-oauthlib
+pandas
+requests
+requests-oauthlib
+python-dotenv
+openpyxl
+xlrd
